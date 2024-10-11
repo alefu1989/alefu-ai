@@ -8,27 +8,27 @@
       "title": "ScriptCraft"
     },
     "Hero": {
-      "title": "终极剧本创作工作平台",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+      "title": "儿童艺术创作平台",
+      "description": "儿童艺术启蒙，AI助力艺术创作，举办个人线上画展。",
       "cta": "开始使用"
     },
     "Features": {
       "title": "主要功能",
       "characterProfile": {
-        "title": "角色档案生成器",
-        "description": "轻松创建详细的角色档案。"
+        "title": "孩子的艺术家朋友",
+        "description": "每天认识一位艺术家。"
       },
       "storyStructure": {
-        "title": "故事结构",
-        "description": "使用强大的结构工具组织您的故事。"
+        "title": "AI助力艺术创作",
+        "description": "使用AI工具完善小朋友的艺术想法。"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
-        "description": "精准编辑和完善您的场景。"
+        "title": "个人线上画展",
+        "description": "上传作品，让小朋友拥有自己的个人画展。"
       },
       "aiTools": {
-        "title": "AI辅助工具",
-        "description": "利用AI驱动的建议提升您的写作。"
+        "title": "主题艺术活动",
+        "description": "AI定制趣味艺术活动方案，助力小小艺术家。"
       }
     },
     "Testimonials": {
